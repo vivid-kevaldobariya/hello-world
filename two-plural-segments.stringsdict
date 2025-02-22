@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%lu songs, %lu min</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@lu_total_songs@, %#@lu_total_min@</string>
+		<key>lu_total_songs</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>&lt;b&gt;%lu&lt;/b&gt; song</string>
+			<key>other</key>
+			<string>&lt;b&gt;%lu&lt;/b&gt; songs</string>
+		</dict>
+		<key>lu_total_min</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>&lt;b&gt;one&lt;/b&gt; min</string>
+			<key>other</key>
+			<string>&lt;b&gt;%lu&lt;/b&gt; min</string>
+		</dict>
+        </dict>
+</dict>
+</plist>

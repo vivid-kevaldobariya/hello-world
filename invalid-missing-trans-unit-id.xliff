@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2014-03-26T10:00:43Z" source-language="en" target-language="en" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="OneSky" tool-name="OneSky" tool-version="1.0"/>
+    </header>
+    <body>
+      <trans-unit id="demo" >
+        <source>Demo text</source>
+        <target>Demo text</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Testing text</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

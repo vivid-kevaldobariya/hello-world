@@ -1,0 +1,12 @@
+Category,Key,Source,Remark
+Game,7,"This tech will reveal all land mines around your tank and <color=#00FF00FF>allow you to run over one mine safely, without taking damage, once every 25 seconds.</color> A small monitor on your turret helps to track these effects and cooldown.",This is a tech skill description. Its name is Mine Flayer.
+"app, website, software",9,"Every schema must have an attribute designated as entitlement ID and Name to be valid. Since this is the first attribute in the schema, it will be set to entitlement ID and Name by default. You can edit this setting later in the Edit Type overlay. <br/><br/>Do you want to continue?",schema is the product name to be left in English
+Game,14,"<size=""40"">200 MILLION DOWNLOADS</size>
+
+WE'RE CELEBRATING WITH SOMETHING SPECIAL. IT'S TIME TO WORK TOGETHER.
+
+IT'S TIME TO WORK TOGETHER AS A COMMUNITY. COLLECTIVELY RIDE 200 MILLION LOGS TO UNLOCK A <COLOR=""RED"">NEW GAME MODE</COLOR>.
+
+EVERY PARTICIPANT WILL ALSO WIN A SPECIAL ONE-TIME-ONLY CHICKEN.
+
+<color=""yellow"">HOP TO IT!</color>","This text decribes our latest update. In this update we are running a community even where all users will collectively ride / collect 200,000,000 ""logs"" in the game. Please retain the <size> and <color> tags as these are markup that changes how the text is displayed and these tags should not be translated, but it would be great if they can be included in the translated text around the appropriate phrases. As a reward for participating in this community event, the users will be awarded a one-time-only figurine/character that is not otherwise available, and will also unlock a new game mode that will also be available to future users. We want to emphasise that it is a communal and community effort. It's important to note that the goal of 200,000,000 is a community goal, and not a requirement of each individual user."

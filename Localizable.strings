@@ -1,0 +1,9 @@
+"home.follow.button" = "Follow";
+"home.like.button" = "LIKE";
+
+/* Notes to translator: action to deposit */
+"home.deposit.button" = "Deposit";
+
+/* Notes to translator: User's deposit */
+"profile.deposit.label" = "Deposit yo updated";
+

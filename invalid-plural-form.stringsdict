@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Filtro applicato</key>
+<string>Filtro applicato</string>
+<key>Filtri applicati</key>
+<string>Filtri applicati</string>
+<key>Filtro</key>
+<string>Filtro</string>
+<key>collection_strength_information_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_collection_strength_information@</string>
+<key>lu_collection_strength_information</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 oggetto presenta informazioni incomplete</string>
+<key>altro</key>
+<string>%1$lu oggetti presentano informazioni incomplete</string>
+</dict>
+</dict>
+<key>sublocations_count_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_sublocations_count@</string>
+<key>lu_sublocations_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 sotto-ubicazione</string>
+<key>altro</key>
+<string>%1$lu sotto-ubicazioni</string>
+</dict>
+</dict>
+<key>artist_collectables_count_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_object_count@</string>
+<key>lu_object_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 oggetto</string>
+<key>altro</key>
+<string>%1$lu oggetti</string>
+</dict>
+</dict>
+<key>locations_count_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_location_count@</string>
+<key>lu_location_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 ubicazione</string>
+<key>altro</key>
+<string>%1$lu ubicazioni</string>
+</dict>
+</dict>
+<key>groups_count_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_group_count@</string>
+<key>lu_group_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 gruppo</string>
+<key>altro</key>
+<string>%1$lu gruppi</string>
+</dict>
+</dict>
+<key>selected_items_count_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_items_count@</string>
+<key>lu_items_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 articolo selezionato</string>
+<key>altro</key>
+<string>%1$lu articoli selezionati</string>
+</dict>
+</dict>
+<key>selected_locations_count_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_selected_locations_count@</string>
+<key>lu_selected_locations_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 ubicazione selezionata</string>
+<key>altro</key>
+<string>%1$lu ubicazioni selezionate</string>
+</dict>
+</dict>
+<key>selected_objects_count_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_selected_objects_count@</string>
+<key>lu_selected_objects_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 oggetto selezionato</string>
+<key>altro</key>
+<string>%1$lu oggetti selezionati</string>
+</dict>
+</dict>
+<key>sublocations_and_objects_count_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_sublocations_count@</string>
+<key>lu_sublocations_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 sotto-ubicazione, %2$#@lu_objects_count@</string>
+<key>altro</key>
+<string>%lu sotto-ubicazioni, %2$#@lu_objects_count@</string>
+</dict>
+<key>lu_objects_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 oggetto</string>
+<key>altro</key>
+<string>%lu oggetti</string>
+</dict>
+</dict>
+<key>users_picker_selection_title_format</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%1$#@lu_items_count@</string>
+<key>lu_items_count</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>lu</string>
+<key>uno</key>
+<string>1 utente selezionato</string>
+<key>altro</key>
+<string>%1$lu utenti selezionati</string>
+</dict>
+</dict>
+</dict>
+</plist>

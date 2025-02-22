@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+  <!-- Metadata -->
+
+  <metadata name="MetadataKey1">
+    <value>Metadata Value One</value>
+  </metadata>
+  <metadata name="MetadataKey2">
+    <value>Metadata Value Two</value>
+  </metadata>
+
+  <!-- Resheaders -->
+
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+
+  <!-- Data -->
+
+  <data name="key1" xml:space="preserve">
+    <value>Value One</value>
+  </data>
+
+  <data name="key2">
+    <value>Value Two</value>
+    <comment>Sample comment for translator</comment>
+  </data>
+
+</root>
