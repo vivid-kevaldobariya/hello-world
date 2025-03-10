@@ -1,0 +1,24 @@
+/* Insert Element menu item */
+"Insert Element" = "Insert Element";
+/* Error string used for unknown error types. */
+"ErrorString_1" = "An unknown error occurred."; //error string comment occupied
+//single line comment for error string 2
+"ErrorString_2" = "Opps!An unknown error occurred.";
+"dummyString-1-1" = "There is a dummy string"	;
+"ruby" = "A brilliant girl; omg//try this" ;   
+"haha" = "give a haha 
+second line haha Hehe
+third line haha string";
+#Comment of a trappppppppppppping line
+"trap you" = "give a trap string with
+#this hash in line front";
+"rubbish" = "Opps! This is a poor rubbish string";
+/**
+ * Is there any problem with
+ * Block comment?
+ *//**
+ * Is there any problem with
+ * "commentKey" = "commentString"; //bullshit
+ * in the block comment?
+ */
+"last string" = "last string value in this file"; //do you get this comment?

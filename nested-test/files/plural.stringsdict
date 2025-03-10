@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>activity-profile.label.%lu out of %lu runs completed</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%lu out of %#@lu_total_runs@ completed</string>
+        <key>lu_total_runs</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>NSStringFormatValueTypeKey</key>
+            <string>lu</string>
+            <key>one</key>
+            <string>%lu run</string>
+            <key>other</key>
+            <string>%lu runs</string>
+        </dict>
+    </dict>
+</dict>
+</plist>

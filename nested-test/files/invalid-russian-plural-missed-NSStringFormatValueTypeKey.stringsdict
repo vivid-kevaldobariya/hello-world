@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Will close in %@ minutes</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@will_close_in_d_minutes@</string>
+		<key>will_close_in_d_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>zero</key>
+			<string>Закрывается через %1$@ минут</string>
+			<key>one</key>
+			<string>Закрывается через %1$@ минуту</string>
+			<key>few</key>
+			<string>Закрывается через %1$@ минуты</string>
+			<key>many</key>
+			<string>Закрывается через %1$@ минут</string>
+			<key>other</key>
+			<string>Закрывается через %1$@ минут</string>
+		</dict>
+	</dict>
+	<key>%@ minutes</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@will_close_in_d_minutes@</string>
+		<key>will_close_in_d_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>zero</key>
+			<string>%1$@ минут</string>
+			<key>one</key>
+			<string>%1$@ минута</string>
+			<key>few</key>
+			<string>%1$@ минуты</string>
+			<key>many</key>
+			<string>%1$@ минут</string>
+			<key>other</key>
+			<string>%1$@ минут</string>
+		</dict>
+	</dict>
+	<key>Lunch in %@ minutes, today till %@</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@lunch_in_d_minutes_today_till@ %@</string>
+		<key>lunch_in_d_minutes_today_till</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>zero</key>
+			<string>Через %@ минут перерыв, сегодня до</string>
+			<key>one</key>
+			<string>Через %@ минуту перерыв, сегодня до</string>
+			<key>few</key>
+			<string>Через %@ минуты перерыв, сегодня до</string>
+			<key>many</key>
+			<string>Через %@ минут перерыв, сегодня до</string>
+			<key>other</key>
+			<string>Через %@ минут перерыв, сегодня до</string>
+		</dict>
+	</dict>
+    <key>delivered in %@ days</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@delivered_in_d_days@</string>
+        <key>delivered_in_d_days</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>zero</key>
+            <string>Доставлено за %1$@ дней</string>
+            <key>one</key>
+            <string>Доставлено за %1$@ день</string>
+            <key>few</key>
+            <string>Доставлено за %1$@ дня</string>
+            <key>many</key>
+            <string>Доставлено за %1$@ дней</string>
+            <key>other</key>
+            <string>Доставлено за %1$@ дней</string>
+        </dict>
+    </dict>
+    <key>%d days on the way</key>
+    <dict>
+        <key>NSStringLocalizedFormatKey</key>
+        <string>%#@day_on_the_way@</string>
+        <key>day_on_the_way</key>
+        <dict>
+            <key>NSStringFormatSpecTypeKey</key>
+            <string>NSStringPluralRuleType</string>
+            <key>zero</key>
+            <string>%1$@ дней в пути</string>
+            <key>one</key>
+            <string>%1$@ день в пути</string>
+            <key>few</key>
+            <string>%1$@ дня в пути</string>
+            <key>many</key>
+            <string>%1$@ дней в пути</string>
+            <key>other</key>
+            <string>%1$@ дней в пути</string>
+        </dict>
+    </dict>
+</dict>
+</plist>
